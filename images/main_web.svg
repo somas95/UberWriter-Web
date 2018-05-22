@@ -12,6 +12,9 @@
  <defs>
   <style>.sprite { display: none; }
 	    .sprite:target { display: inline; }</style>
+  <style>
+   @import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+  </style>
   <filter id="filter8363" color-interpolation-filters="sRGB">
    <feFlood flood-color="rgb(0,0,0)" flood-opacity=".498039" result="flood"/>
    <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
